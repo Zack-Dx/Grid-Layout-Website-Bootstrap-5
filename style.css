@@ -1,0 +1,9 @@
+*, *:before, *:after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+i.bi {
+  font-size: 2rem;
+}/*# sourceMappingURL=style.css.map */
